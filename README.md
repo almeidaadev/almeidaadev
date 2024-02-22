@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu Sou Julio César 🖐️</h1>
 <h1 align="center">Sou Estudante De Desenvolvimento 
-Web🖐️</h1>
+Web✨</h1>
 
 [![instal](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![instal](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
